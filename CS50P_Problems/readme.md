@@ -1,4 +1,4 @@
-# CS50 Python
+# CS50 Python 2022
 ___
 
 This course have 10 classes:
@@ -11,6 +11,7 @@ This course have 10 classes:
 7. Lecture 6 - File I/O
 8. Lecture 7 - Regular Expressions
 9. Lecture 8 - Object-Oriented Programming
-10. Final Project
+10. Lecture 9 - Et Cetera
+11. Final Project
 
 [Link to CS50P page](https://cs50.harvard.edu/python/2022/)
